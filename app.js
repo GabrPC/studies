@@ -1,4 +1,5 @@
 function sortear(){
+    // Código para Sortear números
     let quantidade = parseInt(document.getElementById('quantidade').value);
     let de = parseInt(document.getElementById('de').value);
     let ate = parseInt(document.getElementById('ate').value);
